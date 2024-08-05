@@ -1,0 +1,19 @@
+{
+    "name": "abdoelmoneim/elframework",
+    "description": "abdo mvc",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elframework\\": "framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdoelmoneim"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "version": "1.0"
+}
